@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    max-width: 400px;
+    background-color: #23252C;
+    color: #fff;
+}
